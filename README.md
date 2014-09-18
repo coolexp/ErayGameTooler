@@ -6,3 +6,5 @@
 5，rapidjson <br />
 <br />
 一款自动把Excel表格数据打包成Google Protobuf序列化文件的的，并生成对应的C++ Class的文件的工具。
+<br />
+配合Cocos2d-x游戏的开发
